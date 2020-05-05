@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnHome"
+        android:title="Home" />
+    <item
+        android:id="@+id/mnGuardar"
+        android:title="Guardar Usuario" />
+    <item
+        android:id="@+id/mnBuscar"
+        android:title="Buscar Usuario" />
+    <item
+        android:id="@+id/mnEliminar"
+        android:title="Eliminar" />
+    <item
+        android:id="@+id/mnActualizar"
+        android:title="Actualizar" />
+    <item
+        android:id="@+id/mnListar"
+        android:title="Listar Usuarios" />
+</menu>
